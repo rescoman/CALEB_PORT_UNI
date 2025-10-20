@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+.history/
+
+# Build outputs
+*.o
+*.out
+*.exe
+build/
+dist/
+
+# C++
+*.obj
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Data outputs
+*.csv
+*.xlsx
+*.parquet
+*.png
+*.jpg
+*.pdf
