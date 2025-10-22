@@ -27,12 +27,3 @@ g++ -std=c++17 -O2 -o drop_lowest main.cpp
 ./drop_lowest
 
 
-Enter score #1 (0-100): 83
-Enter score #2 (0-100): 91
-Enter score #3 (0-100): 54
-Enter score #4 (0-100): 100
-Enter score #5 (0-100): 76
-
-Scores: 83 91 54 100 76
-Lowest dropped: 54
-Average of top 4: 87.50
