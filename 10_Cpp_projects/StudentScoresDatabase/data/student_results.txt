@@ -1,0 +1,3 @@
+Dembe: Highest =78 Lowest =32 Average =55.60
+Mika: Highest =89 Lowest =12 Average =49.00
+Angle: Highest =89 Lowest =31 Average =66.00
